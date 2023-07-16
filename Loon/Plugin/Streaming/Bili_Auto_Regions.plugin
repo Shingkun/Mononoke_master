@@ -1,7 +1,7 @@
 #!name=bilibili自动换区
 #!desc=哔哩哔哩, 港澳台番剧自动切换地区 & 显示豆瓣评分
 #!author=Coldvvater
-#!homepage=https://github.com/Coldvvater/Mononoke
+#!homepage=https://github.com/lwklove/Mononoke
 #!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/bilibili_3.png
 
 [Mitm]
