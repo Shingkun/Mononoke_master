@@ -2,6 +2,8 @@ name: YouTube去广告
 desc: 去除 YouTube 广告 (IOS >= 15)
 # author: Maasea
 # Credit: Choler、DivineEngine、app2smile
+icon: "https://github.com/DualSubs/YouTube/raw/main/src/assets/icon.png"
+category: "Coldvvater"
 
 # > Feature
 # 删除 瀑布流、视频、搜索中出现的广告和Shorts
