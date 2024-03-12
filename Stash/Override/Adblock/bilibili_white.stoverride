@@ -3,6 +3,8 @@ desc: bilibili去广告及其他优化(白色图标版)
 # author: kokoryh
 # 更多设置详情请使用BoxJS订阅：https://raw.githubusercontent.com/kokoryh/Script/master/boxjs.json
 # 注意：由于Stash暂不支持bilibili自动换区脚本，所以该脚本暂不可用，故已注释。
+icon: "https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/src/assets/icon.png"
+category: "Coldvvater"
 
 http:
   rewrite:
